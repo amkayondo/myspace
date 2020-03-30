@@ -1,0 +1,131 @@
+@font-face {
+    font-family: RobotoMonoBold;
+    src: url(./fonts/Roboto_Mono/RobotoMono-Bold.ttf);
+}
+@font-face {
+    font-family: RobotoMonoLite;
+    src: url(./fonts/Roboto_Mono/RobotoMono-Light.ttf);
+}
+
+body {
+    background-color: rgb(82, 82, 82);
+    margin: 0px;
+}
+@font-face {
+    font-family: RobotoMonoBold;
+    src: url(./fonts/Roboto_Mono/RobotoMono-Bold.ttf);
+}
+@font-face {
+    font-family: RobotoMonoLite;
+    src: url(./fonts/Roboto_Mono/RobotoMono-Light.ttf);
+}
+
+body {
+    background-color: rgb(82, 82, 82);
+    margin: 0px;
+    font-family: RobotoMonoBold;
+}
+
+.topnv {
+    width: -webkit-fill-available;
+    height: 57px;
+}
+
+.lsction {
+    background: cornsilk;
+    height: -webkit-fill-available;
+    width: 50%;
+    position: absolute;
+}
+
+.rsction {
+    background: #CDDC39;
+    height: -webkit-fill-available;
+    width: 50%;
+    position: absolute;
+    right: 0;
+}
+
+.lftpn {
+    width: 50%;
+    height: 57px;
+    position: fixed;
+    top: 0;
+}
+
+.rftpm {
+    width: 50%;
+    height: 57px;
+    position: fixed;
+    right: 0;
+    top: 0;
+}
+
+div#hcktag {
+    color: aqua;
+    font-family: RobotoMonoBold;
+    font-size: 22px;
+    position: absolute;
+    left: 78px;
+    top: 15px;
+}
+
+.mkdo {
+    color: white;
+    font-family: RobotoMonoBold;
+    font-size: 19px;
+    position: absolute;
+    top: 15px;
+    left: 97px;
+}
+
+.tpnkinks {
+    width: fit-content;
+    margin-left: 186px;
+    margin-top: 18px;
+}
+
+a {
+    font-size: 19px;
+    text-decoration: none;
+    font-family: RobotoMonoBold;
+}
+
+a.kds {
+    color: #fff;
+    margin-left: 14px;
+}
+
+.tpnbtn {
+    background: aquamarine;
+    position: absolute;
+    right: 73px;
+    top: 13px;
+}
+
+button {
+    background: #fff;
+    border-color: transparent;
+    font-family: RobotoMonoBold;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 16px;
+    padding-right: 16px;
+    cursor: pointer;
+}
+
+button.tpnsa {
+    font-size: 14px;
+}
+
+/* remove soon */
+.ntsd {
+    color: #fff;
+    text-align: center;
+    font-size: 44px;
+    margin-top: 27px;
+}
+
+.lsction {
+    left: 33px;
+}

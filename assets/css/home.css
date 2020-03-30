@@ -1,0 +1,59 @@
+.introdesc {
+    font-family: RobotoMonoBold;
+    width: 508px;
+    height: 306px;
+    font-size: 58px;
+    padding: 15px;
+    padding-left: 37px;
+    padding-top: 59px;
+    color: #fff;
+}
+.overlaw {
+    position: fixed;
+    width: -webkit-fill-available;
+}
+
+.techdesc {
+    margin-left: 36px;
+}
+
+.whts {
+    background: #fff;
+    width: fit-content;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.sdgfs {
+    margin-top: 19px;
+    color: #fff;
+}
+
+.ctnsa {
+    margin-left: 36px;
+    margin-top: 22px;
+}
+
+button.ctnus {
+    background: #15ffa8;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 18px;
+}
+
+.mypcvt {
+    background: #ffffff45;
+    width: 500px;
+    height: 500px;
+    margin-top: 68px;
+    border-radius: 50%;
+    margin-left: 39px;
+}
+.mypcvt {
+    background-image: url(../img/01.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: unset;
+}
